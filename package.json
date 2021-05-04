@@ -1,0 +1,16 @@
+{
+  "name": "botglobal",
+  "version": "1.0.0",
+  "description": "Торговый бот",
+  "main": "htt",
+  "scripts": {
+    "test": "node htt"
+  },
+  "author": "Aleksey Bogatishchev",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "node-binance-api": "^0.12.4",
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
